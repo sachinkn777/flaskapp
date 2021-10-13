@@ -1,7 +1,6 @@
 # flaskapp
 
 Steps to build and run custom docker container:
-
 1. Pull the repository:
     git clone "https://github.com/sachinkn777/flaskapp.git"
 
